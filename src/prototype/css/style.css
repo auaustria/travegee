@@ -1,0 +1,11 @@
+.profile-content .card .img {
+    position: relative;
+}
+  
+.profile-content .card .img i {
+    top: 5%;
+    right: 5%;
+    position: absolute;
+    font-size: 2.5rem;
+    color: white;
+  }
