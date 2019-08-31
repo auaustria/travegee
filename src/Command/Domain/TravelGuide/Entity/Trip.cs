@@ -1,5 +1,6 @@
 ﻿using Common;
 using System;
+using TravelGuide.ValueObject;
 
 namespace TravelGuide.Entity
 {

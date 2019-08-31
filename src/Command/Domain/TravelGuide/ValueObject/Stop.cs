@@ -1,4 +1,4 @@
-﻿namespace TravelGuide.Entity
+﻿namespace TravelGuide.ValueObject
 {
 	public class Stop
 	{

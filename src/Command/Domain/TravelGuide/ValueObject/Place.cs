@@ -1,6 +1,4 @@
-﻿using TravelGuide.ValueObject;
-
-namespace TravelGuide.Entity
+﻿namespace TravelGuide.ValueObject
 {
 	public class Place //aggregate
 	{
